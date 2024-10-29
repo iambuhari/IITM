@@ -1,0 +1,3 @@
+* This project uses the Python calling GitHub API to scrape data about users in Barcelona with over 100 followers and their repositories, capturing user details and repository metadata. It took 15 minutes to scrape data using Python.
+* One interesting finding is that a significant portion of active users in Barcelona work in smaller companies or are freelancers, often favoring popular languages like JavaScript 3.and Python.
+* Developers aiming to increase visibility should consider focusing on languages and tools popular among this community, like contributing to repositories in JavaScript or Python.

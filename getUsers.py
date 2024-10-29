@@ -1,5 +1,5 @@
 import requests
-
+import csv
 # Add your GitHub token here
 GITHUB_TOKEN = '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'
 headers = {'Authorization': f'token {GITHUB_TOKEN}'}
@@ -20,7 +20,7 @@ def get_users_in_barcelona(min_followers=100):
         page += 1
 
     return users
-import csv
+
 
 def clean_company(company_name):
     if company_name:
@@ -79,6 +79,8 @@ def save_repositories_to_csv(users, filename="repositories.csv"):
             repositories = get_user_repositories(user['login'])
 
             for repo in repositories:
+                # Check if license is None, and handle it accordingly
+                license_name = repo['license']['key'] if repo.get('license') else None
                 writer.writerow({
                     "login": user['login'],
                     "full_name": repo.get('full_name'),
@@ -88,7 +90,7 @@ def save_repositories_to_csv(users, filename="repositories.csv"):
                     "language": repo.get('language'),
                     "has_projects": repo.get('has_projects'),
                     "has_wiki": repo.get('has_wiki'),
-                    "license_name": repo.get('license', {}).get('key')
+                    "license_name": license_name
                 })
 
 users = get_users_in_barcelona()
