@@ -1,7 +1,7 @@
 import requests
 
 # Add your GitHub token here
-GITHUB_TOKEN = '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'
+GITHUB_TOKEN = '___'
 headers = {'Authorization': f'token {GITHUB_TOKEN}'}
 def get_users_in_barcelona(min_followers=100):
     users = []
