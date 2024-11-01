@@ -1,12 +1,12 @@
 login,name,company,location,email,hireable,bio,public_repos,followers,following,created_at
-midudev,Miguel Ángel Durán,,Barcelona,miduga@gmail.com,FALSE,Te enseño Programación y Desarrollo Web. Creador de contenido en Twitch y YouTube.,194,28255,2,2012-03-21T18:31:36Z
-ai,Andrey Sitnik,EVILMARTIANS,"Barcelona, Spain",andrey@sitnik.ru,FALSE,"The creator of Autoprefixer, @postcss, @browserslist, and @logux
+midudev,Miguel Ángel Durán,,Barcelona,miduga@gmail.com,false,Te enseño Programación y Desarrollo Web. Creador de contenido en Twitch y YouTube.,194,28255,2,2012-03-21T18:31:36Z
+ai,Andrey Sitnik,EVILMARTIANS,"Barcelona, Spain",andrey@sitnik.ru,false,"The creator of Autoprefixer, @postcss, @browserslist, and @logux
 ",85,9153,139,2008-08-02T16:34:20Z
 raysan5,Ray,RAYLIBTECH,Barcelona,raysan5@gmail.com,true,"I make tools and technology for videogames development. Available for technical consulting, courses teaching and conferences. Feel free to message me!",26,3569,272,2013-10-24T15:41:54Z
-vfarcic,Viktor Farcic,UPBOUND,"Barcelona, Spain",viktor@farcic.com,FALSE,Developer Advocate @Upbound,451,2973,0,2013-10-18T07:28:17Z
-spite,Jaume Sanchez,GOOGLE-DEEPMIND,London · Barcelona,hello@clicktorelease.com,FALSE,"Web Dev, pixel burner - WebGL · WebXR",135,2546,0,2011-04-15T16:00:06Z
-LeCoupa,Julien Le Coupanec,THECOMPANIESAPI,"Barcelona, Spain.",,FALSE,#JavaScript #TypeScript #Node #Nuxt #Vue #Adonis #Jest #Tailwind #Puppeteer #Elastic #Capacitor #Docker #DigitalOcean,15,2513,166,2012-04-19T09:37:07Z
-peduarte,Pedro Duarte,RAYCAST,Barcelona,,FALSE,Hype @raycast ,72,1905,181,2010-08-22T22:26:44Z
+vfarcic,Viktor Farcic,UPBOUND,"Barcelona, Spain",viktor@farcic.com,false,Developer Advocate @Upbound,451,2973,0,2013-10-18T07:28:17Z
+spite,Jaume Sanchez,GOOGLE-DEEPMIND,London · Barcelona,hello@clicktorelease.com,false,"Web Dev, pixel burner - WebGL · WebXR",135,2546,0,2011-04-15T16:00:06Z
+LeCoupa,Julien Le Coupanec,THECOMPANIESAPI,"Barcelona, Spain.",,false,#JavaScript #TypeScript #Node #Nuxt #Vue #Adonis #Jest #Tailwind #Puppeteer #Elastic #Capacitor #Docker #DigitalOcean,15,2513,166,2012-04-19T09:37:07Z
+peduarte,Pedro Duarte,RAYCAST,Barcelona,,false,Hype @raycast ,72,1905,181,2010-08-22T22:26:44Z
 jk4freedom,JK,,Barcelona,,true,,4,1776,13398,2018-02-12T12:06:32Z
 facontidavide,Davide Faconti,PICKNIK,Barcelona,davide.faconti@gmail.com,true,"C++ enthusiast, passionate about Robotics.
 Optimizing code for fun and profit.",127,1494,19,2012-11-17T18:54:23Z
